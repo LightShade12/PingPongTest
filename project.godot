@@ -10,6 +10,10 @@ config_version=5
 
 [application]
 
-config/name="New Game Project"
+config/name="PingPongCollab"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
+
+[dotnet]
+
+project/assembly_name="New Game Project"
